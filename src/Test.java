@@ -13,6 +13,7 @@ public class Test {
         double dd = scan.nextDouble();
         scan.nextLine();
         String ss = scan.nextLine();
+
         // scan.close();
         /* Read and save an integer, double, and String to your variables.*/
         // Note: If you have trouble reading the entire String, please go back and review the Tutorial closely.
